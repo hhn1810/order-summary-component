@@ -148,4 +148,8 @@ body {
   color: var(--Dark-Blue);
 }
 @media screen and (min-width: 90em) {
+  body {
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: repeat-x;
+  }
 }
